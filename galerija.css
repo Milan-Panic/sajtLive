@@ -1,0 +1,11 @@
+.galerija img{
+    max-width: 100%;
+    border: 1.1em solid white;
+    border-radius: 1em;
+}
+.galerija{
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(400px,1fr));
+    margin-top: 100px;
+}
