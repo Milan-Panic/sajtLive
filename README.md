@@ -1,4 +1,4 @@
-# My Replication of oficial NBA site
+# My Replication of Official NBA Site
 HTML
 CSS
 BOOTSTRAP
